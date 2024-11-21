@@ -13,7 +13,7 @@ Sales Forecasting: Accurately predicting sales trends to inform business strateg
 
 Supply Chain Optimization: IStreamlining the ordering process to align with predicted sales and avoid disruptions.
 
-🛠 Skills
+Skills
 Data Cleaning and Preprocessing
 Exploratory data analysis (EDA)
 Model Evaluation
@@ -43,17 +43,16 @@ Sales Forecasting: Predict pizza sales for the next one week (your choice of mon
 Ingredient Calculation: Calculate the required quantities of each ingredient based on the predicted sales and the ingredient dataset.
 Purchase Order Creation: Generate a detailed purchase order listing the quantities of each ingredient needed for the predicted sales period.
 Dataset
+
 Sales Data: Historical sales records (Date, Pizza Type, Quantity Sold, Price, Category, Ingredients)
 
 Ingredient Data: Ingredient requirements for each pizza type (Pizza Type, Ingredient, Quantity Needed)
 
-Run Locally
-Clone the project
 
-  git clone https://github.com/Vijay6383/Dominos---Predictive-Purchase-Order-System.git
 Install dependencies
 
-  pip install prophet, statsmodels, scikit-learn, scipy, seaborn 
+pip install prophet, statsmodels, scikit-learn, scipy, seaborn 
+
 Tags
 Data Cleaning
 EDA
