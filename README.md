@@ -31,7 +31,7 @@ Sales Prediction
 
 Feature Engineering: Create relevant features from the sales data, such as day of the week, month, promotional periods, and holiday effects.
 
-Model Selection: Choose an appropriate time series forecasting model (e.g., ARIMA, SARIMA, Prophet, LSTM, Regression Model).
+Model Selection: Choose an appropriate time series forecasting model (e.g., ARIMA, SARIMA, Prophet).
 
 Model Training: Train the predictive model on the historical sales data.
 
@@ -39,7 +39,7 @@ Model Evaluation: Use metric Mean Absolute Percentage Error (MAPE) to evaluate m
 
 Purchase Order Generation
 
-Sales Forecasting: Predict pizza sales for the next one week (your choice of months or weeks) using the trained model.
+Sales Forecasting: Predict pizza sales for the next one week using the trained model.
 Ingredient Calculation: Calculate the required quantities of each ingredient based on the predicted sales and the ingredient dataset.
 Purchase Order Creation: Generate a detailed purchase order listing the quantities of each ingredient needed for the predicted sales period.
 Dataset
